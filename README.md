@@ -1,2 +1,2 @@
 # calculator
-Calculator made in html, css
+Simple calculator made during a web development course. Made in html and some css resources.
